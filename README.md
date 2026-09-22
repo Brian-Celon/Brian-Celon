@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Brian-Celon 👋
 
-<!--
-**Brian-Celon/Brian-Celon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Developer | Web Development & Python**
 
-Here are some ideas to get you started:
+I'm currently learning and building projects with web technologies and Python. I enjoy turning ideas into projects and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+</p>
+
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+* 🐍 Python
+* 🔧 Git
+* 🐙 GitHub
+
+## 🚀 What I'm Learning
+
+* Building responsive websites
+* Improving my JavaScript skills
+* Developing Python projects
+* Learning Git & GitHub workflows
+* Building and sharing more projects
+
+## 📂 Featured Projects
+
+> 🚧 Projects coming soon...
+
+I'm currently working on projects to build my portfolio. Check back soon!
+
+## 📈 My Goals
+
+* Become a better developer
+* Build real-world projects
+* Contribute to open source
+* Improve my problem-solving skills
+* Build a strong developer portfolio
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories and follow my journey as I continue learning and building.
+
+---
+
+⭐ **Thanks for visiting my profile!**
