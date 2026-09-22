@@ -4,6 +4,10 @@
 
 I'm currently learning and building projects with web technologies and Python. I enjoy turning ideas into projects and continuously improving my development skills.
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Brian-Celon&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ## 🛠️ Tech Stack & Skills
 
 <p align="left">
